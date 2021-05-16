@@ -1,3 +1,4 @@
+rainbow, unicorn, pony
 Blue
 Green
 Yellow
@@ -5,4 +6,4 @@ Purple
 Orange
 Red
 These are rainbow colors
-and unicorns and etc.
+and unicorns
