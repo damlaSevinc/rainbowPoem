@@ -5,5 +5,4 @@ Purple
 Orange
 Red
 These are rainbow colors
-and unicorns
-and etc.
+and unicorns and etc.
