@@ -1,2 +1,2 @@
 # rainbowPoem
-create poem
+Poem about rainbow
